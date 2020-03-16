@@ -14,5 +14,7 @@ This app performs recognition of speech Commands on mobile, highlighting the spo
 ### Additional Note
 
 * The application was built using code from the tensorflow demo repo which can be downloaded **[here.](https://github.com/tensorflow/examples/blob/master/lite/examples/speech_commands/android/README.md])**
+* If you'd like to use a new model you will need to replace the files conv_moodel_label.txt and conv_model_optimized.tflite in app/src/main/assets/
+
 
 
